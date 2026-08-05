@@ -6,7 +6,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/purvajitpatil-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purvajit-patil-2100b3241/)
 [![Gmail](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poorvjeet01@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/purvajitpatil)
 
@@ -29,6 +29,44 @@ I like understanding systems from the ground up — which is why instead of just
 
 ## 🚀 Featured Projects
 
+### 💞 [TDC Matchmaker Dashboard](https://github.com/purvajitpatil/tdc-matchmaker-dashboard) — [**Live Demo →**](https://tdc-matchmaker-dashboard.vercel.app)
+A premium, AI-assisted matchmaking dashboard — built end-to-end with a custom design system, not a template.
+
+**Highlights:**
+- Gender-specific **100-point compatibility engine** across 5 weighted dimensions (core, lifestyle, values, culture, profession)
+- **Gemini 2.0 Flash** generates on-demand match explanations + personalized intro emails, with a graceful no-key fallback
+- 30+ field biodata views, live search/filter, notes, and a full custom ivory/burgundy design language (not default Tailwind look)
+- Zero-backend architecture — deployed free on Vercel/Netlify
+
+`React 18` `Vite` `Tailwind CSS` `Gemini AI` `Vercel`
+
+---
+
+### 🔍 [VectorDB — Built From Scratch](https://github.com/purvajitpatil/VectorDB)
+A fully working vector database in C++ with a web UI — because I wanted to know how Pinecone/Weaviate/Chroma actually work under the hood.
+
+**Highlights:**
+- **HNSW**, **KD-Tree**, and Brute-Force search implemented side by side, benchmarked live against each other
+- Cosine / Euclidean / Manhattan distance metrics, all built from scratch
+- Real 768-D embeddings via Ollama (`nomic-embed-text`) + a full **RAG pipeline** with `llama3.2`
+- Full REST API (insert / delete / search / benchmark) + live 2D PCA scatter plot of the vector space
+
+`C++` `HNSW` `RAG` `REST API` `Ollama`
+
+---
+
+### 🧠 [Velora AI — Business Workflow Copilot](https://github.com/purvajitpatil/Velora-AI)
+An AI copilot that automates document triage — upload an invoice, ticket, or lead, and it extracts, classifies, prioritizes, summarizes, and routes it automatically.
+
+**Highlights:**
+- Full-stack, production-shaped: **Next.js 16** + **FastAPI** + **PostgreSQL** (async SQLAlchemy) + **Docker**
+- Multi-step **LangGraph** AI pipeline: extract → classify → prioritize → summarize → suggest next action
+- JWT auth with role-based access, multi-tenant workspaces, audit logging, and a real test suite (pytest + frontend tests)
+
+`Next.js` `FastAPI` `LangChain/LangGraph` `PostgreSQL` `Docker`
+
+---
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -39,40 +77,19 @@ A multi-threaded C++ DPI engine that parses raw `.pcap` traffic, extracts **TLS 
 **Highlights:**
 - Custom PCAP + Ethernet/IP/TCP parser written from scratch (no libpcap)
 - Producer–consumer thread pool: Reader → Load Balancers → Fast Paths → Writer
-- Flow tracking via 5-tuple hashing with consistent hashing across threads
-- Blocks by IP / app / domain, live traffic breakdown report
+- Flow tracking via 5-tuple hashing, consistent hashing across worker threads
 
 `C++` `Multi-threading` `Networking` `TLS/SNI`
 
 </td>
 <td width="50%" valign="top">
 
-### 🔍 [VectorDB — Built From Scratch](https://github.com/purvajitpatil/VectorDB)
-A fully working vector database in C++ with a web UI — because I wanted to know how Pinecone/Weaviate/Chroma actually work under the hood.
+### 📄 [AI Resume Evaluator](https://github.com/purvajitpatil/Ai_Engineer_Purvajit)
+Paste a job description, drop in resumes, get every candidate scored 0–100% with matched skills and a verdict — in seconds.
 
 **Highlights:**
-- **HNSW**, **KD-Tree**, and Brute-Force search implemented side by side, benchmarked live
-- Cosine / Euclidean / Manhattan distance metrics
-- Real 768-D embeddings via Ollama (`nomic-embed-text`) + full **RAG pipeline** with `llama3.2`
-- REST API + live 2D PCA scatter plot of the vector space
-
-`C++` `HNSW` `RAG` `REST API` `Ollama`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌌 [Velora-AI](https://github.com/purvajitpatil/Velora-AI)
-TypeScript-based AI product exploring applied LLM tooling.
-
-`TypeScript` `AI`
-
-</td>
-<td width="50%" valign="top">
-
-### 📄 [AI Resume Evaluator](https://github.com/purvajitpatil/Ai_Engineer_Purvajit)
-AI-powered resume evaluator using **Groq LLaMA-3** with **Pydantic** structured output for reliable, schema-validated LLM responses.
+- **Groq LLaMA-3.3-70B** + **Pydantic** for validated, structured LLM output (no JSON parsing errors)
+- Handles PDF and DOCX resumes, ranks and returns top/bottom candidates
 
 `Python` `Groq` `LLaMA-3` `Pydantic`
 
@@ -132,7 +149,7 @@ AI-powered resume evaluator using **Groq LLaMA-3** with **Pydantic** structured 
 
 ### 💬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/purvajitpatil-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purvajit-patil-2100b3241/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poorvjeet01@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=purvajitpatil&color=00C9FF&style=for-the-badge&label=PROFILE+VIEWS" />
