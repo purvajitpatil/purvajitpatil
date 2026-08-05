@@ -1,18 +1,142 @@
-# 💫 About Me:
-# Hi there, I'm Purvajit Patil 👋<br><br>**Systems Engineer | Full-Stack Developer | IT Student**<br><br>I am a second-year Information Technology student at Bharti Vidyapeeth College of Engineering with a strong focus on systems programming, software engineering, and building highly performant architectures. From engineering multi-threaded deep packet inspection systems to building production-grade vector databases with RAG integrations, I love diving deep into how systems work under the hood.<br><br>🔭 **Currently focused on:** Systems Research, Machine Learning Infrastructure, and Full-Stack Development.<br>🌱 **Looking for:** Student Researcher internships in Software Engineering, ML Research, or Systems Research.<br>⚡ **Fun Fact:** I built my own custom vector database engine in C++ supporting HNSW and KD-Tree search algorithms from scratch.<br><br>### 🛠️ Tech Stack & Tools<br>* **Languages:** C, C++, JavaScript (ES6+)<br>* **Frontend:** React.js, HTML5, CSS3, Bootstrap, Chakra UI<br>* **Backend:** Node.js, Express.js, REST APIs, Socket.io<br>* **Databases:** MongoDB, MySQL, Custom VectorDB<br>* **Systems & Core:** Multi-threading, Deep Packet Inspection, PCAP parsing, TLS/SNI, HNSW, KD-Tree, RAG pipelines, Ollama<br><br>📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/purvajitpatil-) | poorvjeet01@gmail.com
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header&text=Purvajit%20Patil&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20IT%20Student&descAlignY=55&descSize=18" width="100%"/>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Handlebars](https://img.shields.io/badge/Handlebars-%23000000?style=for-the-badge&logo=Handlebars.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=purvajitpatil&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=purvajitpatil&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=purvajitpatil&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Building+systems+from+first+principles;C%2B%2B+%7C+Multi-threading+%7C+Deep+Packet+Inspection;Building+a+Vector+Database+%2B+RAG+from+scratch;Open+to+Software+%2F+ML+%2F+Systems+internships" alt="Typing SVG" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
----
-[![](https://komarev.com/ghpvc/?username=purvajitpatil&icon=0&color=0)](https://visitcount.itsvg.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/purvajitpatil-)
+[![Gmail](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poorvjeet01@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/purvajitpatil)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<br/>
+
+## 🧠 About Me
+
+I'm a second-year **Information Technology** student at Bharti Vidyapeeth College of Engineering, and I spend most of my time in places most students avoid: **raw sockets, multi-threaded pipelines, and things I could've just used a library for.**
+
+I like understanding systems from the ground up — which is why instead of just calling a vector database API, I built one. Instead of using a firewall SDK, I wrote a deep packet inspection engine that parses TLS handshakes byte-by-byte to extract SNI.
+
+- 🔭 **Currently building:** systems-level infra + ML tooling (VectorDB + RAG pipelines)
+- 🌱 **Currently exploring:** distributed systems, ML infrastructure, low-level networking
+- 🎯 **Looking for:** Student Researcher / SWE internships in Systems, ML Infra, or Backend Engineering
+- ⚡ **Fun fact:** Built a vector database engine in C++ from scratch — supports HNSW, KD-Tree, and brute-force search, with a live RAG pipeline on top
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ [Deep Packet Inspection Engine](https://github.com/purvajitpatil/Deep_Packet_Inspection)
+A multi-threaded C++ DPI engine that parses raw `.pcap` traffic, extracts **TLS SNI / HTTP Host** headers from encrypted handshakes, classifies traffic by application, and blocks flows in real time.
+
+**Highlights:**
+- Custom PCAP + Ethernet/IP/TCP parser written from scratch (no libpcap)
+- Producer–consumer thread pool: Reader → Load Balancers → Fast Paths → Writer
+- Flow tracking via 5-tuple hashing with consistent hashing across threads
+- Blocks by IP / app / domain, live traffic breakdown report
+
+`C++` `Multi-threading` `Networking` `TLS/SNI`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 [VectorDB — Built From Scratch](https://github.com/purvajitpatil/VectorDB)
+A fully working vector database in C++ with a web UI — because I wanted to know how Pinecone/Weaviate/Chroma actually work under the hood.
+
+**Highlights:**
+- **HNSW**, **KD-Tree**, and Brute-Force search implemented side by side, benchmarked live
+- Cosine / Euclidean / Manhattan distance metrics
+- Real 768-D embeddings via Ollama (`nomic-embed-text`) + full **RAG pipeline** with `llama3.2`
+- REST API + live 2D PCA scatter plot of the vector space
+
+`C++` `HNSW` `RAG` `REST API` `Ollama`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌌 [Velora-AI](https://github.com/purvajitpatil/Velora-AI)
+TypeScript-based AI product exploring applied LLM tooling.
+
+`TypeScript` `AI`
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 [AI Resume Evaluator](https://github.com/purvajitpatil/Ai_Engineer_Purvajit)
+AI-powered resume evaluator using **Groq LLaMA-3** with **Pydantic** structured output for reliable, schema-validated LLM responses.
+
+`Python` `Groq` `LLaMA-3` `Pydantic`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>📌 More projects on my <a href="https://github.com/purvajitpatil?tab=repositories">repositories page</a></sub>
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,sqlite,prisma" />
+
+**Cloud & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,git,github,vercel,netlify" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=purvajitpatil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purvajitpatil&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=purvajitpatil&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=purvajitpatil&theme=tokyo-night&hide_border=true" width="95%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/purvajitpatil-)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poorvjeet01@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=purvajitpatil&color=00C9FF&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div>
