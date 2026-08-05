@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header&text=Purvajit%20Patil&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20IT%20Student&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Building+systems+from+first+principles;Python+%7C+ML+%2F+AI+Pipelines+%7C+Backend+Engineering;Building+a+Vector+Database+%2B+RAG+from+scratch;Open+to+Software+%2F+ML+%2F+Systems+internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=750&lines=Building+systems+from+first+principles;Python+%7C+ML%2FAI+Pipelines+%7C+Backend+Engineering;Building+a+Vector+Database+%2B+RAG+from+scratch;Open+to+Software+%2F+ML+%2F+Systems+internships" alt="Typing SVG" />
 
 <br/>
 
